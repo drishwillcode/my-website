@@ -1,0 +1,19 @@
+body h1, body h2, body h3 {
+    text-align: center;
+    color:#bf2b54;
+}
+body{
+    background-color: #f5e9d0;
+    font-family: Arial, sans-serif;
+}
+body p {
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.img {
+    width: 400px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
